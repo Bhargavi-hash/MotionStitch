@@ -18,14 +18,14 @@ export interface Timeline {
 
 /** Loads the timeline JSON, then loads every distinct clip it references (only once each, even if reused across many segments). */
 export async function loadSongData(songFilename: string): Promise<{ timeline: Timeline; clips: Map<string, ClipData> }> {
-  const timelineRes = await fetch(`/timelines/${songFilename}.timeline.json`);
+  const timelineRes = await fetch(`${import.meta.env.BASE_URL}timelines/${songFilename}.timeline.json`);
   const timeline: Timeline = await timelineRes.json();
 
   const uniqueClipNames = [...new Set(timeline.segments.map((s) => s.adavu_name))];
   const clips = new Map<string, ClipData>();
 
   for (const name of uniqueClipNames) {
-    const clipRes = await fetch(`/clips/${name}.json`);
+    const clipRes = await fetch(`${import.meta.env.BASE_URL}clips/${name}.json`);
     const clipData: ClipData = await clipRes.json();
     clips.set(name, clipData);
   }

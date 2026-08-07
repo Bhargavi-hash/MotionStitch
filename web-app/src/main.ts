@@ -15,7 +15,7 @@ async function main() {
 
   const { timeline, clips } = await loadSongData(SONG_FILENAME);
   const animationPlayer = new AnimationPlayer(timeline, clips);
-  const audioPlayer = new AudioPlayer(`/songs/${SONG_FILENAME}`);
+  const audioPlayer = new AudioPlayer(`${import.meta.env.BASE_URL}songs/${SONG_FILENAME}`);
 
   // browsers require a real user click before audio can play
   const playButton = document.createElement("button");
