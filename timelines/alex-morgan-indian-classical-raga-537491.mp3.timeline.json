@@ -1,0 +1,438 @@
+{
+  "song_duration_sec": 274.75201814058954,
+  "tempo_bpm": 143.5546875,
+  "segments": [
+    {
+      "adavu_name": "natta_adavu_1_8_v1",
+      "song_start_sec": 28.65342403628118,
+      "song_end_sec": 32.02031746031746,
+      "playback_speed": 1.8
+    },
+    {
+      "adavu_name": "natta_adavu_1_8_v2",
+      "song_start_sec": 32.02031746031746,
+      "song_end_sec": 35.34077097505669,
+      "playback_speed": 1.8
+    },
+    {
+      "adavu_name": "natta_adavu_speeds",
+      "song_start_sec": 35.34077097505669,
+      "song_end_sec": 38.684444444444445,
+      "playback_speed": 1.525
+    },
+    {
+      "adavu_name": "natta_adavu_1_8_v1",
+      "song_start_sec": 38.684444444444445,
+      "song_end_sec": 42.00489795918367,
+      "playback_speed": 1.8
+    },
+    {
+      "adavu_name": "natta_adavu_1_8_v2",
+      "song_start_sec": 42.00489795918367,
+      "song_end_sec": 45.348571428571425,
+      "playback_speed": 1.8
+    },
+    {
+      "adavu_name": "natta_adavu_speeds",
+      "song_start_sec": 45.348571428571425,
+      "song_end_sec": 48.692244897959185,
+      "playback_speed": 1.525
+    },
+    {
+      "adavu_name": "natta_adavu_1_8_v1",
+      "song_start_sec": 48.692244897959185,
+      "song_end_sec": 52.03591836734694,
+      "playback_speed": 1.8
+    },
+    {
+      "adavu_name": "natta_adavu_1_8_v2",
+      "song_start_sec": 52.03591836734694,
+      "song_end_sec": 55.356371882086165,
+      "playback_speed": 1.8
+    },
+    {
+      "adavu_name": "natta_adavu_speeds",
+      "song_start_sec": 55.356371882086165,
+      "song_end_sec": 58.72326530612245,
+      "playback_speed": 1.515
+    },
+    {
+      "adavu_name": "natta_adavu_1_8_v1",
+      "song_start_sec": 58.72326530612245,
+      "song_end_sec": 62.0669387755102,
+      "playback_speed": 1.8
+    },
+    {
+      "adavu_name": "natta_adavu_1_8_v2",
+      "song_start_sec": 62.0669387755102,
+      "song_end_sec": 65.43383219954649,
+      "playback_speed": 1.8
+    },
+    {
+      "adavu_name": "natta_adavu_speeds",
+      "song_start_sec": 65.43383219954649,
+      "song_end_sec": 68.80072562358276,
+      "playback_speed": 1.515
+    },
+    {
+      "adavu_name": "natta_adavu_1_8_v1",
+      "song_start_sec": 68.80072562358276,
+      "song_end_sec": 72.16761904761904,
+      "playback_speed": 1.8
+    },
+    {
+      "adavu_name": "natta_adavu_1_8_v2",
+      "song_start_sec": 72.16761904761904,
+      "song_end_sec": 75.53451247165533,
+      "playback_speed": 1.8
+    },
+    {
+      "adavu_name": "natta_adavu_speeds",
+      "song_start_sec": 75.53451247165533,
+      "song_end_sec": 78.90140589569161,
+      "playback_speed": 1.515
+    },
+    {
+      "adavu_name": "natta_adavu_1_8_v1",
+      "song_start_sec": 78.90140589569161,
+      "song_end_sec": 82.26829931972789,
+      "playback_speed": 1.8
+    },
+    {
+      "adavu_name": "natta_adavu_1_8_v2",
+      "song_start_sec": 82.26829931972789,
+      "song_end_sec": 85.6584126984127,
+      "playback_speed": 1.8
+    },
+    {
+      "adavu_name": "natta_adavu_speeds",
+      "song_start_sec": 85.6584126984127,
+      "song_end_sec": 89.02530612244898,
+      "playback_speed": 1.515
+    },
+    {
+      "adavu_name": "natta_adavu_1_8_v1",
+      "song_start_sec": 89.02530612244898,
+      "song_end_sec": 92.41541950113378,
+      "playback_speed": 1.8
+    },
+    {
+      "adavu_name": "natta_adavu_1_8_v2",
+      "song_start_sec": 92.41541950113378,
+      "song_end_sec": 95.78231292517007,
+      "playback_speed": 1.8
+    },
+    {
+      "adavu_name": "natta_adavu_speeds",
+      "song_start_sec": 95.78231292517007,
+      "song_end_sec": 99.17242630385488,
+      "playback_speed": 1.504
+    },
+    {
+      "adavu_name": "natta_adavu_1_8_v1",
+      "song_start_sec": 99.17242630385488,
+      "song_end_sec": 102.53931972789115,
+      "playback_speed": 1.8
+    },
+    {
+      "adavu_name": "natta_adavu_1_8_v2",
+      "song_start_sec": 102.53931972789115,
+      "song_end_sec": 105.90621315192743,
+      "playback_speed": 1.8
+    },
+    {
+      "adavu_name": "natta_adavu_speeds",
+      "song_start_sec": 105.90621315192743,
+      "song_end_sec": 109.29632653061225,
+      "playback_speed": 1.504
+    },
+    {
+      "adavu_name": "natta_adavu_1_8_v1",
+      "song_start_sec": 109.29632653061225,
+      "song_end_sec": 112.66321995464853,
+      "playback_speed": 1.8
+    },
+    {
+      "adavu_name": "natta_adavu_1_8_v2",
+      "song_start_sec": 112.66321995464853,
+      "song_end_sec": 116.05333333333333,
+      "playback_speed": 1.8
+    },
+    {
+      "adavu_name": "natta_adavu_speeds",
+      "song_start_sec": 116.05333333333333,
+      "song_end_sec": 119.44344671201814,
+      "playback_speed": 1.504
+    },
+    {
+      "adavu_name": "natta_adavu_1_8_v1",
+      "song_start_sec": 119.44344671201814,
+      "song_end_sec": 122.81034013605442,
+      "playback_speed": 1.8
+    },
+    {
+      "adavu_name": "natta_adavu_1_8_v2",
+      "song_start_sec": 122.81034013605442,
+      "song_end_sec": 126.1772335600907,
+      "playback_speed": 1.8
+    },
+    {
+      "adavu_name": "natta_adavu_speeds",
+      "song_start_sec": 126.1772335600907,
+      "song_end_sec": 129.5673469387755,
+      "playback_speed": 1.504
+    },
+    {
+      "adavu_name": "natta_adavu_1_8_v1",
+      "song_start_sec": 129.5673469387755,
+      "song_end_sec": 132.95746031746032,
+      "playback_speed": 1.8
+    },
+    {
+      "adavu_name": "natta_adavu_1_8_v2",
+      "song_start_sec": 132.95746031746032,
+      "song_end_sec": 136.34757369614513,
+      "playback_speed": 1.8
+    },
+    {
+      "adavu_name": "natta_adavu_speeds",
+      "song_start_sec": 136.34757369614513,
+      "song_end_sec": 139.7144671201814,
+      "playback_speed": 1.515
+    },
+    {
+      "adavu_name": "natta_adavu_1_8_v1",
+      "song_start_sec": 139.7144671201814,
+      "song_end_sec": 143.10458049886623,
+      "playback_speed": 1.8
+    },
+    {
+      "adavu_name": "natta_adavu_1_8_v2",
+      "song_start_sec": 143.10458049886623,
+      "song_end_sec": 146.49469387755101,
+      "playback_speed": 1.8
+    },
+    {
+      "adavu_name": "natta_adavu_speeds",
+      "song_start_sec": 146.49469387755101,
+      "song_end_sec": 149.8615873015873,
+      "playback_speed": 1.515
+    },
+    {
+      "adavu_name": "natta_adavu_1_8_v1",
+      "song_start_sec": 149.8615873015873,
+      "song_end_sec": 153.2517006802721,
+      "playback_speed": 1.8
+    },
+    {
+      "adavu_name": "natta_adavu_1_8_v2",
+      "song_start_sec": 153.2517006802721,
+      "song_end_sec": 156.64181405895692,
+      "playback_speed": 1.8
+    },
+    {
+      "adavu_name": "natta_adavu_speeds",
+      "song_start_sec": 156.64181405895692,
+      "song_end_sec": 160.0319274376417,
+      "playback_speed": 1.504
+    },
+    {
+      "adavu_name": "natta_adavu_1_8_v1",
+      "song_start_sec": 160.0319274376417,
+      "song_end_sec": 163.42204081632653,
+      "playback_speed": 1.8
+    },
+    {
+      "adavu_name": "natta_adavu_1_8_v2",
+      "song_start_sec": 163.42204081632653,
+      "song_end_sec": 166.81215419501135,
+      "playback_speed": 1.8
+    },
+    {
+      "adavu_name": "natta_adavu_speeds",
+      "song_start_sec": 166.81215419501135,
+      "song_end_sec": 170.20226757369613,
+      "playback_speed": 1.504
+    },
+    {
+      "adavu_name": "natta_adavu_1_8_v1",
+      "song_start_sec": 170.20226757369613,
+      "song_end_sec": 173.56916099773244,
+      "playback_speed": 1.8
+    },
+    {
+      "adavu_name": "natta_adavu_1_8_v2",
+      "song_start_sec": 173.56916099773244,
+      "song_end_sec": 176.95927437641723,
+      "playback_speed": 1.8
+    },
+    {
+      "adavu_name": "natta_adavu_speeds",
+      "song_start_sec": 176.95927437641723,
+      "song_end_sec": 180.34938775510204,
+      "playback_speed": 1.504
+    },
+    {
+      "adavu_name": "natta_adavu_1_8_v1",
+      "song_start_sec": 180.34938775510204,
+      "song_end_sec": 183.76272108843537,
+      "playback_speed": 1.8
+    },
+    {
+      "adavu_name": "natta_adavu_1_8_v2",
+      "song_start_sec": 183.76272108843537,
+      "song_end_sec": 187.1528344671202,
+      "playback_speed": 1.8
+    },
+    {
+      "adavu_name": "natta_adavu_speeds",
+      "song_start_sec": 187.1528344671202,
+      "song_end_sec": 190.542947845805,
+      "playback_speed": 1.504
+    },
+    {
+      "adavu_name": "natta_adavu_1_8_v1",
+      "song_start_sec": 190.542947845805,
+      "song_end_sec": 193.9330612244898,
+      "playback_speed": 1.8
+    },
+    {
+      "adavu_name": "natta_adavu_1_8_v2",
+      "song_start_sec": 193.9330612244898,
+      "song_end_sec": 197.34639455782312,
+      "playback_speed": 1.8
+    },
+    {
+      "adavu_name": "natta_adavu_speeds",
+      "song_start_sec": 197.34639455782312,
+      "song_end_sec": 200.75972789115647,
+      "playback_speed": 1.494
+    },
+    {
+      "adavu_name": "natta_adavu_1_8_v1",
+      "song_start_sec": 200.75972789115647,
+      "song_end_sec": 204.1730612244898,
+      "playback_speed": 1.8
+    },
+    {
+      "adavu_name": "natta_adavu_1_8_v2",
+      "song_start_sec": 204.1730612244898,
+      "song_end_sec": 207.58639455782313,
+      "playback_speed": 1.8
+    },
+    {
+      "adavu_name": "natta_adavu_speeds",
+      "song_start_sec": 207.58639455782313,
+      "song_end_sec": 210.99972789115645,
+      "playback_speed": 1.494
+    },
+    {
+      "adavu_name": "natta_adavu_1_8_v1",
+      "song_start_sec": 210.99972789115645,
+      "song_end_sec": 214.38984126984127,
+      "playback_speed": 1.8
+    },
+    {
+      "adavu_name": "natta_adavu_1_8_v2",
+      "song_start_sec": 214.38984126984127,
+      "song_end_sec": 217.8031746031746,
+      "playback_speed": 1.8
+    },
+    {
+      "adavu_name": "natta_adavu_speeds",
+      "song_start_sec": 217.8031746031746,
+      "song_end_sec": 221.23972789115646,
+      "playback_speed": 1.484
+    },
+    {
+      "adavu_name": "natta_adavu_1_8_v1",
+      "song_start_sec": 221.23972789115646,
+      "song_end_sec": 224.6530612244898,
+      "playback_speed": 1.8
+    },
+    {
+      "adavu_name": "natta_adavu_1_8_v2",
+      "song_start_sec": 224.6530612244898,
+      "song_end_sec": 228.06639455782312,
+      "playback_speed": 1.8
+    },
+    {
+      "adavu_name": "natta_adavu_speeds",
+      "song_start_sec": 228.06639455782312,
+      "song_end_sec": 231.47972789115647,
+      "playback_speed": 1.494
+    },
+    {
+      "adavu_name": "natta_adavu_1_8_v1",
+      "song_start_sec": 231.47972789115647,
+      "song_end_sec": 234.8930612244898,
+      "playback_speed": 1.8
+    },
+    {
+      "adavu_name": "natta_adavu_1_8_v2",
+      "song_start_sec": 234.8930612244898,
+      "song_end_sec": 238.32961451247166,
+      "playback_speed": 1.8
+    },
+    {
+      "adavu_name": "natta_adavu_speeds",
+      "song_start_sec": 238.32961451247166,
+      "song_end_sec": 241.71972789115645,
+      "playback_speed": 1.504
+    },
+    {
+      "adavu_name": "natta_adavu_1_8_v1",
+      "song_start_sec": 241.71972789115645,
+      "song_end_sec": 245.15628117913832,
+      "playback_speed": 1.8
+    },
+    {
+      "adavu_name": "natta_adavu_1_8_v2",
+      "song_start_sec": 245.15628117913832,
+      "song_end_sec": 248.56961451247165,
+      "playback_speed": 1.8
+    },
+    {
+      "adavu_name": "natta_adavu_speeds",
+      "song_start_sec": 248.56961451247165,
+      "song_end_sec": 251.982947845805,
+      "playback_speed": 1.494
+    },
+    {
+      "adavu_name": "natta_adavu_1_8_v1",
+      "song_start_sec": 251.982947845805,
+      "song_end_sec": 255.39628117913833,
+      "playback_speed": 1.8
+    },
+    {
+      "adavu_name": "natta_adavu_1_8_v2",
+      "song_start_sec": 255.39628117913833,
+      "song_end_sec": 258.8096145124717,
+      "playback_speed": 1.8
+    },
+    {
+      "adavu_name": "natta_adavu_speeds",
+      "song_start_sec": 258.8096145124717,
+      "song_end_sec": 262.2461678004535,
+      "playback_speed": 1.484
+    },
+    {
+      "adavu_name": "natta_adavu_1_8_v1",
+      "song_start_sec": 262.2461678004535,
+      "song_end_sec": 265.68272108843536,
+      "playback_speed": 1.8
+    },
+    {
+      "adavu_name": "natta_adavu_1_8_v2",
+      "song_start_sec": 265.68272108843536,
+      "song_end_sec": 269.14249433106573,
+      "playback_speed": 1.8
+    },
+    {
+      "adavu_name": "natta_adavu_speeds",
+      "song_start_sec": 269.14249433106573,
+      "song_end_sec": 274.75201814058954,
+      "playback_speed": 0.909
+    }
+  ]
+}

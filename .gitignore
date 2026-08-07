@@ -1,0 +1,8 @@
+data-pipeline/.venv/
+data-pipeline/songs/
+data-pipeline/output_timelines/
+web-app/node_modules/
+web-app/dist/
+__pycache__/
+*.pyc
+.DS_Store
