@@ -5,6 +5,12 @@ composition, assembled and timed to match your song's tempo, beats, and
 energy — built entirely from real reference dance footage, not AI-generated
 motion.
 
+## Demo
+
+## Demo
+
+[![MotionStitch demo](https://img.youtube.com/vi/fnHwD8xAVaw/maxresdefault.jpg)](https://www.youtube.com/watch?v=fnHwD8xAVaw)
+
 ## How it works
 
 1. **Song analysis** — the uploaded song is analyzed for tempo, beat
