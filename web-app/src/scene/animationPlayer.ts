@@ -9,8 +9,15 @@ import type { Joint } from "./dollRig";
  * screen's render rate don't match.
  */
 export class AnimationPlayer {
-  constructor(private timeline: Timeline, private clips: Map<string, ClipData>) {}
+  private timeline: Timeline;
+  private clips: Map<string, ClipData>;
 
+  constructor(timeline: Timeline, clips: Map<string, ClipData>) {
+    this.timeline = timeline;
+    this.clips = clips;
+  }
+
+  
   getPoseAtTime(songTimeSec: number): Joint[] | null {
     const segment = this.timeline.segments.find(
       (s) => songTimeSec >= s.song_start_sec && songTimeSec < s.song_end_sec
