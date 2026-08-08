@@ -7,8 +7,6 @@ motion.
 
 ## Demo
 
-## Demo
-
 [![MotionStitch demo](https://img.youtube.com/vi/fnHwD8xAVaw/maxresdefault.jpg)](https://www.youtube.com/watch?v=fnHwD8xAVaw)
 
 ## How it works
